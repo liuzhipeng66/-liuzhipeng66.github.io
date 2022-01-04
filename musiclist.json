@@ -6,7 +6,7 @@
     "time": "03:35",
     "link_url":"./source/告白气球.mp3",
     "cover":"./source/告白气球.jpg",
-    "link_lrc":"./source/告白气球.txt"
+    "link_lrc":"告白气球.txt"
   },
   {
     "name":"AslongASLoveMe",
@@ -15,7 +15,7 @@
     "time": "03:49",
     "link_url":"./source/AslongASLoveMe.mp3",
     "cover": "./source/AslongASLoveMe.jpg",
-    "link_lrc": "./source/AslongASLoveMe.txt"
+    "link_lrc": "AslongASLoveMe.txt"
   },
   {
     "name":"SomethingJustLikeThis",
@@ -24,7 +24,7 @@
     "time": "04:07",
     "link_url":"./source/SomethingJustLikeThis.mp3",
     "cover":"./source/SomethingJustLikeThis.jpg",
-    "link_lrc":"./source/SomethingJustLikeThis.txt"
+    "link_lrc":"SomethingJustLikeThis.txt"
   },
   {
     "name":"YourSong",
@@ -33,7 +33,7 @@
     "time": "04:16",
     "link_url":"./source/YourSong.mp3",
     "cover":"./source/YourSong.jpg",
-    "link_lrc":"./source/YourSong.txt"
+    "link_lrc":"YourSong.txt"
   },
   {
     "name":"凉凉",
@@ -42,7 +42,7 @@
     "time": "05:00",
     "link_url":"./source/凉凉.mp3",
     "cover":"./source/凉凉.jpg",
-    "link_lrc":"./source/凉凉.txt"
+    "link_lrc":"凉凉.txt"
   },
   {
     "name":"小城大事",
@@ -51,7 +51,7 @@
     "time": "03:54",
     "link_url":"./source/小城大事.mp3",
     "cover":"./source/小城大事.jpg",
-    "link_lrc":"./source/小城大事.txt"
+    "link_lrc":"小城大事.txt"
   },
   {
     "name":"广东爱情故事",
@@ -60,7 +60,7 @@
     "time": "03:34",
     "link_url":"./source/广东爱情故事.mp3",
     "cover":"./source/广东爱情故事.jpg",
-    "link_lrc":"./source/广东爱情故事.txt"
+    "link_lrc":"广东爱情故事.txt"
   },
   {
     "name":"我是一个程序员",
@@ -69,7 +69,7 @@
     "time": "02:14",
     "link_url":"./source/我是一个程序员.mp3",
     "cover":"./source/我是一个程序员.jpg",
-    "link_lrc":"./source/我是一个程序员.txt"
+    "link_lrc":"我是一个程序员.txt"
   },
   {
     "name":"演员",
@@ -78,7 +78,8 @@
     "time": "04:21",
     "link_url":"./source/演员.mp3",
     "cover":"./source/演员.jpg",
-    "link_lrc":"./source/演员.txt"},
+    "link_lrc":"演员.txt"
+  },
   {
     "name":"百里守约",
     "singer": "萧敬腾",
@@ -86,7 +87,7 @@
     "time": "03:42",
     "link_url":"./source/百里守约.mp3",
     "cover":"./source/百里守约.jpg",
-    "link_lrc":"./source/百里守约.txt"
+    "link_lrc":"百里守约.txt"
   },
   {
     "name":"社会摇",
@@ -95,7 +96,7 @@
     "time": "04:09",
     "link_url":"./source/社会摇.mp3",
     "cover":"./source/社会摇.jpg",
-    "link_lrc":"./source/社会摇.txt"
+    "link_lrc":"社会摇.txt"
   },
   {
     "name":"说散就散",
@@ -104,7 +105,7 @@
     "time": "04:02",
     "link_url":"./source/说散就散.mp3",
     "cover":"./source/说散就散.jpg",
-    "link_lrc":"./source/说散就散.txt"
+    "link_lrc":"说散就散.txt"
   },
   {
     "name":"输了你赢了世界又如何",
@@ -113,6 +114,6 @@
     "time": "04:43",
     "link_url":"./source/输了你赢了世界又如何.mp3",
     "cover":"./source/输了你赢了世界又如何.jpg",
-    "link_lrc":"./source/输了你赢了世界又如何.txt"
+    "link_lrc":"输了你赢了世界又如何.txt"
   }
 ]
