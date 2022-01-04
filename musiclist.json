@@ -9,7 +9,7 @@
     "link_lrc":"./source/告白气球.txt"
   },
   {
-    "name":"As long AS Love Me",
+    "name":"AslongASLoveMe",
     "singer": "Justin Bieber",
     "album": "NOW That's What I Call Music! 44",
     "time": "03:49",
@@ -18,7 +18,7 @@
     "link_lrc": "./source/AslongASLoveMe.txt"
   },
   {
-    "name":"Something Just Like This",
+    "name":"SomethingJustLikeThis",
     "singer": "Chainsmokers",
     "album": "Something Just Like This",
     "time": "04:07",
@@ -27,7 +27,7 @@
     "link_lrc":"./source/SomethingJustLikeThis.txt"
   },
   {
-    "name":"Your Song",
+    "name":"YourSong",
     "singer": "Lady Gaga",
     "album": "Your Song",
     "time": "04:16",
